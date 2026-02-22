@@ -1,3 +1,0 @@
-"category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
-"Environmental Information Processing","Signal transduction","hsa04010","MAPK signaling pathway","13/97","300/9564",0.0433333333333333,4.27257731958763,5.82945597569856,9.59969080682695e-06,0.00233272486605895,0.00198056778751377,"TGFBR2/DUSP1/JUN/PRKACA/GADD45B/AKT2/HGF/NFKB2/PGF/VEGFA/IKBKB/NR4A1/TAOK1",13
-"Organismal Systems","Development and regeneration","hsa04380","Osteoclast differentiation","8/97","143/9564",0.0559440559440559,5.51596856751496,5.5074071459153,9.66983327875136e-05,0.0117488474336829,0.00997519643492246,"TGFBR2/JUN/ATP2A2/IFNAR2/AKT2/NFKB2/FOSL2/IKBKB",8
